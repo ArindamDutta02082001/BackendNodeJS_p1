@@ -1,0 +1,29 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "this is a backend project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArindamDutta02082001/Backend_NodeJS_Proj1.git"
+  },
+  "keywords": [
+    "node",
+    "chai",
+    "arindam"
+  ],
+  "author": "Arindam Dutta 2023",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArindamDutta02082001/Backend_NodeJS_Proj1/issues"
+  },
+  "homepage": "https://github.com/ArindamDutta02082001/Backend_NodeJS_Proj1#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
